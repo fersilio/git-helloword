@@ -61,3 +61,55 @@ Para entrar a un código tuyo que tengas en GitHub:
 
 # Imagenes
 ![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+# Code Snippets
+Resaltar partes del código
+```JSON
+Este texto extá resaltado
+```
+
+# Tablas
+Lo primero que necesitamos es el borde de las tablas
+
+| Columna1 | Apellido | Documento | 
+|----------- | --------- | ---------- | 
+ | Maxi | Burgos | dfjksofd | 
+Todas | Tomson | olfdas 
+
+No es que sea la forma más comoda de hacer tablas
+
+# Citas
+Textos para hacer referencia a algún autor. 
+
+Las citas están acompañadas de un texto.
+
+Esto es un texto referente a una cita que pondremos debajo:
+ > Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior: 
+> Esto es otra cita referente al segundo párrafo. 
+
+Lo importante es el text en blanco, el tabulador y símbolo de mayor
+
+# Lineas divisoras horizontales
+
+Esto es un texto que será dividido
+
+---  
+
+Esto también esta dividio  pero por asteriscos
+
+***
+
+Este es otro texto dividio por guiones bajos 
+
+___
+
+
+# Saltos de linea
+
+Esto es nuestro primer párrafo.
+
+Esto es nuestro segundo párrafo
+
