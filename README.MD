@@ -1,4 +1,4 @@
-# Cabecera H1
+# Cabeceras
 La cabecera H1 genera un línea debajo de esta que indica que es la cabecera principal.
 
 ## cabecera H2
@@ -37,3 +37,15 @@ Tachado:
 Combinarción de las anteriores:
 
 - aqui podemos usar *formato italco*, pero tambien **bold** y ~~tachado~~
+# listas
+
+1. Esto es un item de lista ordenada
+1. Esto es un item de lista ordenada
+1. Esto es un item de lista ordenada
+
+Como se ve no hace falta poner los números ya que se calculasn solos
+
+- Esto es un item de lista desordenada
+- Esto es un item de lista desordenada
+- Esto es un item de lista desordenada
+
