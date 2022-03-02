@@ -49,3 +49,12 @@ Como se ve no hace falta poner los números ya que se calculasn solos
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
 
+# Links
+
+<a href= "http://www.google.com"> Esto es un link HTML <a>
+
+[Esto es un link en Markdown](http://www.google.com)
+
+Para entrar a un código tuyo que tengas en GitHub:
+
+[Esto es un link al index](index.html)
