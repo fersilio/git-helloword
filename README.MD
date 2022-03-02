@@ -32,5 +32,8 @@ Bolt:
 - __negrita__ es ka segunda forma
 
 Tachado:
-- Formato ~tachado~ 
--
+- Formato ~~tachado~~, formato normal.
+
+Combinarción de las anteriores:
+
+- aqui podemos usar *formato italco*, pero tambien **bold** y ~~tachado~~
