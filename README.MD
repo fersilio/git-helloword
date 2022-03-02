@@ -8,7 +8,29 @@ Este tamaño se parece mucho al tamaño norma
 ##### Cabecera H5
 ###### Cabecera H6
 
+# ¿Como hacer el underline?
 
+Underline 1 
+-----------
+Como vés lo agranda y lo hace como un título
 
-Soy un readme.
+Underline 2
+===========
+Esta se parece más a la cabecera H1
 
+# Emphasis
+Formas de resaltar el texto
+
+Hay varias formas de hacerlo. 
+
+Cursiva:
+- Letra *itálica* de la primera forma.
+- Letra _itálica_ de la segunda forma.
+
+Bolt:
+- Así hacemos que esté en **Negrita** de la primera forma
+- __negrita__ es ka segunda forma
+
+Tachado:
+- Formato ~tachado~ 
+-
